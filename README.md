@@ -1,1 +1,3 @@
 # padariadoseudonato
+A padaria do seu donato esta localizada em uma pequena cidadezinha que está localizada em Minas Gerais, fundada em 2000 a padaria é uma das mais populares na cidade ate hoje 
+famosa por seus doces e pães de uma qualidade extraordinária, a padaria mantém seus clientes em um ambiente confortável e amigavel, tambem possui desconto para clientes fiéis.
