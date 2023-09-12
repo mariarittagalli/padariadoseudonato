@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<meta charser="UTF-8"
+<h1>sobre a padaria do seu donato</h1>
+<p>A <strong>padaria do seu donato</strong> esta localizada em uma pequena cidadezinha que está localizada em Minas Gerais, fundada em 2000 a padaria é uma das mais populares na cidade ate hoje</p> 
+<p>famosa por seus doces e pães de uma qualidade extraordinária, a padaria mantém seus clientes em um ambiente confortável e amigavel, tambem possui desconto para clientes fiéis.</p>
+<p Style="front-size: 50px"><em>Nossa missão é:<strong>"proporcionar qualidade e satisfação dos nossos clientes"</strong>.</em></p>
+</html>
